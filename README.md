@@ -1,7 +1,7 @@
 # Real_Estate_Athens
  Creating this reporting system that uses Greek goverment's data
 
-#### Playlist to hear that I have created for reading my repos :D : https://open.spotify.com/playlist/13PihYZ73GTgCN6snGAZnV?si=04ad54b6ae244a47
+#### Playlist to hear that I have created for reading my repos 😎 : <https://open.spotify.com/playlist/13PihYZ73GTgCN6snGAZnV?si=04ad54b6ae244a47>
 
 **Analyzing the local commercial real estate market, understanding financing differences, and effectively managing commercial properties are critical aspects of successful investment. Let's explore in detail:**
 
